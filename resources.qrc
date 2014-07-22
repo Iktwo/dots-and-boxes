@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/GameArea.qml</file>
+        <file>qml/SplashScreen.qml</file>
+        <file>qml/Menu.qml</file>
+        <file>qml/LoadingScreen.qml</file>
+        <file>qml/MainWindow.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="logo">resources/images/logo.png</file>
+    </qresource>
+</RCC>
